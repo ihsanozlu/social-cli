@@ -16,7 +16,7 @@ Clone and build:
 git clone https://github.com/ihsanozlu/social-cli.git
 cd social-cli
 go build -o social-cli
-
+```
 
 ### Make it available globally:
 
